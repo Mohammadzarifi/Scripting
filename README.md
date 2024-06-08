@@ -1,1 +1,1 @@
-# Scrpting
+# Scriptin
