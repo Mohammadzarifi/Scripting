@@ -5,3 +5,6 @@ Hobbies: [soccer, cooking, hiking]
 
 [this is my new file for testing]
 
+Name: jamal
+title: CEO
+hobbies: coding and learning
