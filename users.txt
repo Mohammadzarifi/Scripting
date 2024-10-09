@@ -8,3 +8,5 @@ Hobbies: [soccer, cooking, hiking]
 Name: jamal
 title: CEO
 hobbies: coding and learning
+need to add this file to the commit section of the repository. 
+
