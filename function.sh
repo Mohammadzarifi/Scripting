@@ -6,3 +6,8 @@ function world {
     echo "third arg $3"
     
 }
+
+function Name { 
+    echo "first arg $1"
+    echo "second"
+}
